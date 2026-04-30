@@ -66,4 +66,4 @@ GitHub Actions will:
 - Do not commit your real `.env`
 - Store production secrets only in GitHub Actions secrets
 - `.env.example` is safe to commit because it contains placeholders only
-# AI-News-Agent
+
